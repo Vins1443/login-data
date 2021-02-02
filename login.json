@@ -1,0 +1,11 @@
+{
+ "id": 1,
+ "firstName": "John",
+ "lastName":  "Doe",
+ "email": "j@gmail.com",
+ "mobile": "7838344009",
+ "loginName" : "john123",
+ "password": "john@123",
+ "status": "",
+ "role":""
+}
